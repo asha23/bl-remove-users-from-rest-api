@@ -1,0 +1,17 @@
+{
+    "name": "ash.whiting/remove-users-from-rest-api",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "AshWhiting\\RemoveUsersFromRestApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ash Whiting",
+            "email": "ash_whiting@hotmail.com"
+        }
+    ],
+    "require": {}
+}
