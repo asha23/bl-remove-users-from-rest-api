@@ -1,6 +1,6 @@
 {
-    "name": "ash.whiting/remove-users-from-rest-api",
-    "type": "project",
+    "name": "asha23/remove-users-from-rest-api",
+    "type": "wordpress-plugin",
     "license": "MIT",
     "autoload": {
         "psr-4": {
