@@ -1,17 +1,5 @@
 {
-    "name": "asha23/remove-users-from-rest-api",
+    "name": "asha23/bl-remove-users-from-rest-api",
     "type": "wordpress-plugin",
-    "license": "MIT",
-    "autoload": {
-        "psr-4": {
-            "AshWhiting\\RemoveUsersFromRestApi\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "Ash Whiting",
-            "email": "ash_whiting@hotmail.com"
-        }
-    ],
-    "require": {}
+    "license": "MIT"
 }
